@@ -1,0 +1,3 @@
+[submodule "json-simple"]
+	path = json-simple
+	url = https://github.com/fangyidong/json-simple.git
